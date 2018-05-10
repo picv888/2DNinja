@@ -2,7 +2,10 @@ fileFormatVersion: 2
 guid: 30eeb3575980645579a63e4f29f076e6
 timeCreated: 18446744011573954816
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: collectible_spritesheet_0
+    21300002: collectible_spritesheet_1
+    21300004: collectible_spritesheet_2
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -65,6 +68,26 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,7 +135,7 @@ TextureImporter:
       tessellationDetail: -1
     outline: []
     physicsShape: []
-  spritePackingTag: 
+  spritePackingTag: sheet
   userData: 
   assetBundleName: 
   assetBundleVariant: 
